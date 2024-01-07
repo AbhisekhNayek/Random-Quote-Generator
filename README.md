@@ -13,13 +13,13 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AbhisekhNayek/Random-Quote-Generator
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-advice-app
+   cd Random-Quote-Generator
    ```
 
 3. Install dependencies:
@@ -27,14 +27,22 @@ To run the project locally, follow these steps:
    ```bash
    npm install
    ```
+   or
+   ```bash
+   yarn install
+   ```
 
-4. Start the development server:
+5. Start the development server:
 
    ```bash
    npm start
    ```
+    or
+   ```bash
+   yarn start
+   ```
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the React Advice App.
+6. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the React Advice App.
 
 ## Project Features
 
@@ -62,6 +70,6 @@ By exploring this project, you will gain insights into:
 - [React Documentation](https://reactjs.org/)
 - [Axios Documentation](https://axios-http.com/)
 
-Feel free to explore and modify the project as needed. If you have any questions or feedback, please refer to the [Issues](https://github.com/your-username/react-advice-app/issues) section.
+Feel free to explore and modify the project as needed. If you have any questions or feedback, please refer to the [Issues](https://github.com/AbhisekhNayek/Random-Quote-Generator/issues) section.
 
 Happy coding!
