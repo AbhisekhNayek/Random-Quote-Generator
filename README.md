@@ -10,19 +10,19 @@ In this project, we utilize React on the front end to create an interactive appl
 
 To run the project locally, follow these steps:
 
-1. Clone the repository to your local machine:
+1. **Clone the repository to your local machine:**
 
    ```bash
    git clone https://github.com/AbhisekhNayek/Random-Quote-Generator
    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
 
    ```bash
    cd Random-Quote-Generator
    ```
 
-3. Install dependencies:
+3. **Install dependencies:**
 
    ```bash
    npm install
@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
    yarn install
    ```
 
-5. Start the development server:
+5. **Start the development server:**
 
    ```bash
    npm start
@@ -42,15 +42,15 @@ To run the project locally, follow these steps:
    yarn start
    ```
 
-6. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the React Advice App.
+6. **Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the React Advice App.**
 
 ## Project Features
 
-- **Fetching Advice:** The app makes GET requests to the Advice Slip JSON API to retrieve random pieces of advice.
+- **Fetching Advice:** 🎁 The app makes GET requests to the Advice Slip JSON API to retrieve random pieces of advice.
   
-- **React Components:** The project demonstrates the use of React components for building a structured user interface.
+- **React Components:** 🧩 The project demonstrates the use of React components for building a structured user interface.
 
-- **Interactive UI:** Users can click a button to fetch new advice, showcasing the interactivity of the React application.
+- **Interactive UI:** 🔄 Users can click a button to fetch new advice, showcasing the interactivity of the React application.
 
 ## Learnings
 
@@ -72,4 +72,4 @@ By exploring this project, you will gain insights into:
 
 Feel free to explore and modify the project as needed. If you have any questions or feedback, please refer to the [Issues](https://github.com/AbhisekhNayek/Random-Quote-Generator/issues) section.
 
-Happy coding!
+Happy coding! 🚀
